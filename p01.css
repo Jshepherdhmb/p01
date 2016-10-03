@@ -1,0 +1,33 @@
+* {
+background-color: #D3D3ff;
+}
+.n {
+background-color: yellow;
+border-style:solid;
+text-decoration: none;
+font-family: monospace;
+}
+.n:hover {
+background-color: red;
+
+}
+html {
+background-color: green;
+}
+p {
+background-color: blue;
+color: orange;
+font-family: Impact;
+letter-spacing: 2px;
+}
+.i{
+width: 100%;
+}
+.l{
+float: left; width: 75%;
+background-color: brown;
+}
+.r{
+float: right; width: 25%;
+background-color: darkgrey;
+}

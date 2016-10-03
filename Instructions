@@ -1,0 +1,25 @@
+
+Your task for this project is to create a new version of the retro interactive story. You will create a Retro Web Adventure, where the user reads a short passage of a story and then has multiple choices for what the story's character should do. Those choices will be hypertext links that will bring the user to a new page with the next part of the story, according to the reader's choice. Your story should have:
+
+    One page for each story segment
+    Each story segment page should have a short (~1 paragraph) explanation of what is happening in the story, followed by a list of (at least two) choices. Each choice should provide a link to its corresponding story segment
+    The shortest path through your story should have at least 5 segment pages (including both the beginning and end page)
+    Story lines may converge, but there should be at least two possible endings
+    At least two images that help supplement your story.
+    Written by yourself using your own creativity, however, it may be "inspired" by a popular story/movie/book/game/etc. You MAY use others' images, but if you do, there should be a link immediately below the image that refers to where the image was found and should have the text "Image Source"
+
+The technical requirements are:
+
+    Each story segment should have its own HTML page and all HTML should validate without errors/warnings (using the tool available in resources)
+    The story should have a cohesive, appealing visual design and layout
+    The pages should all use the same external CSS file that defines the style appropriately
+    All HTML and CSS should be easy to read and follow good practices taught in class.
+    The "start" of the story should be in a file called index.html
+    The design should use web-safe fonts but NOT the default browser font
+    The design should NOT use solid white (i.e. #FFFFFF) background
+    The design should NOT have any fully black (i.e. #000000) text
+    The layout should have at least two columns
+    Your full name should be put in comments in all files
+    You should post your project to your personal GitHub account as a public repository
+    Submit your work below by submitting the repo url:
+
